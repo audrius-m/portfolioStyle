@@ -1,2 +1,2 @@
 # portfolioStyle
- stylesheet for portfolio page
+ custom bootstrap stylesheet for portfolio page on pen.
